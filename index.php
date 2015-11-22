@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title><?php echo "it is title";?></title>
 </head>
 <body>
 <?php echo "qwwer";
